@@ -1,0 +1,69 @@
+
+
+NET "clk_in" LOC = P57;
+NET "clk_out" LOC = P87;
+NET "reset" LOC = P54;
+NET "data_one[6]" LOC = P19;
+NET "data_one[5]" LOC = P18;
+NET "data_one[4]" LOC = P16;
+NET "data_one[3]" LOC = P15;
+NET "data_one[2]" LOC = P13;
+NET "data_one[1]" LOC = P12;
+NET "data_one[0]" LOC = P11;
+NET "data_sixteen[6]" LOC = P10;
+NET "data_sixteen[5]" LOC = P8;
+NET "data_sixteen[4]" LOC = P7;
+NET "data_sixteen[3]" LOC = P6;
+NET "data_sixteen[2]" LOC = P5;
+NET "data_sixteen[1]" LOC = P4;
+NET "data_sixteen[0]" LOC = P3;
+NET "instruction[7]" LOC = P130;
+NET "instruction[6]" LOC = P129;
+NET "instruction[5]" LOC = P127;
+NET "instruction[4]" LOC = P126;
+NET "instruction[3]" LOC = P125;
+NET "instruction[2]" LOC = P124;
+NET "instruction[1]" LOC = P121;
+NET "instruction[0]" LOC = P120;
+NET "programcounter_one[6]" LOC = P76;
+NET "programcounter_one[5]" LOC = P75;
+NET "programcounter_one[4]" LOC = P72;
+NET "programcounter_one[3]" LOC = P71;
+NET "programcounter_one[2]" LOC = P70;
+NET "programcounter_one[1]" LOC = P69;
+NET "programcounter_one[0]" LOC = P68;
+NET "programcounter_sixteen[6]" LOC = P64;
+NET "programcounter_sixteen[5]" LOC = P63;
+NET "programcounter_sixteen[4]" LOC = P62;
+NET "programcounter_sixteen[3]" LOC = P60;
+NET "programcounter_sixteen[2]" LOC = P59;
+NET "programcounter_sixteen[1]" LOC = P58;
+NET "programcounter_sixteen[0]" LOC = P55;
+NET "read_address[7]" LOC = P105;
+NET "read_address[6]" LOC = P104;
+NET "read_address[5]" LOC = P103;
+NET "read_address[4]" LOC = P102;
+NET "read_address[3]" LOC = P101;
+NET "read_address[2]" LOC = P99;
+NET "read_address[1]" LOC = P98;
+NET "read_address[0]" LOC = P96;
+
+
+NET "branch" LOC = P88;
+
+# PlanAhead Generated physical constraints 
+
+NET "instruction_sixteen[6]" LOC = P29;
+NET "instruction_sixteen[5]" LOC = P28;
+NET "instruction_sixteen[4]" LOC = P27;
+NET "instruction_sixteen[3]" LOC = P25;
+NET "instruction_sixteen[2]" LOC = P24;
+NET "instruction_sixteen[1]" LOC = P21;
+NET "instruction_sixteen[0]" LOC = P20;
+NET "instruction_one[6]" LOC = P85;
+NET "instruction_one[5]" LOC = P84;
+NET "instruction_one[4]" LOC = P83;
+NET "instruction_one[3]" LOC = P82;
+NET "instruction_one[2]" LOC = P79;
+NET "instruction_one[1]" LOC = P78;
+NET "instruction_one[0]" LOC = P77;

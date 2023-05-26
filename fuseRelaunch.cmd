@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Xilinx/final_project_simple/dataMemory_isim_beh.exe" -prj "C:/Xilinx/final_project_simple/dataMemory_beh.prj" "work.dataMemory" "work.glbl" 
